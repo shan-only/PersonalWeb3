@@ -5,5 +5,21 @@
     "price": 123,
     "description": "Solusi manajemen server game dengan performa tinggi dan antarmuka yang intuitif.",
     "packages": []
+  },
+  {
+    "name": "Panel Pter",
+    "image": "https://f.uguu.se/CSBEkMsC.webp",
+    "price": 21000,
+    "description": "Solusi manajemen server game dengan performa tinggi dan antarmuka yang intuitif.",
+    "packages": [
+      {
+        "name": "basic",
+        "price": 3000
+      },
+      {
+        "name": "prem",
+        "price": 5000
+      }
+    ]
   }
 ]
