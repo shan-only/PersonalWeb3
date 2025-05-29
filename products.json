@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "prodrj606r5k3",
+    "name": "Panel Pterod",
+    "image": "https://h.uguu.se/pwKyxwgB.webp",
+    "price": 236000,
+    "description": "A paragraph is a series of sentences that are organized and coherent, and are all related to a single topic. Almost every piece of writing you do that is longer ...\nPeople also ask",
+    "packages": [
+      {
+        "name": "jing",
+        "price": 800
+      },
+      {
+        "name": "hah",
+        "price": 7000
+      }
+    ]
+  }
+]
