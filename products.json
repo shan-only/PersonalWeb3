@@ -78,5 +78,13 @@
         "price": 7000
       }
     ]
+  },
+  {
+    "id": "prodmhfasmr8f",
+    "name": "hnj",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/00210b44.jpeg",
+    "price": 222000,
+    "description": "hhha",
+    "packages": []
   }
 ]
