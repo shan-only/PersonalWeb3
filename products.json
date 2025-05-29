@@ -15,5 +15,26 @@
         "price": 7000
       }
     ]
+  },
+  {
+    "id": "prodf9b7sutrs",
+    "name": "kun",
+    "image": "https://h.uguu.se/pwKyxwgB.webp",
+    "price": 30000,
+    "description": "hehhee test",
+    "packages": [
+      {
+        "name": "uuuuu",
+        "price": 78900000
+      },
+      {
+        "name": "tyyyyyy",
+        "price": 456000000
+      },
+      {
+        "name": "ghhh",
+        "price": 76200000000
+      }
+    ]
   }
 ]
