@@ -1,26 +1,5 @@
 [
   {
-    "id": "prodiy9vxd158",
-    "name": "aerok",
-    "image": "https://h.uguu.se/pwKyxwgB.webp",
-    "price": 80000,
-    "description": "pler",
-    "packages": [
-      {
-        "name": "pler",
-        "price": 600
-      },
-      {
-        "name": "kon",
-        "price": 800
-      },
-      {
-        "name": "deng",
-        "price": 7000
-      }
-    ]
-  },
-  {
     "id": "prodmhfasmr8f",
     "name": "hnj",
     "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/00210b44.jpeg",
