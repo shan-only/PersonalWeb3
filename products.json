@@ -57,5 +57,26 @@
         "price": 349000
       }
     ]
+  },
+  {
+    "id": "prodiy9vxd158",
+    "name": "aerok",
+    "image": "https://h.uguu.se/pwKyxwgB.webp",
+    "price": 80000,
+    "description": "pler",
+    "packages": [
+      {
+        "name": "pler",
+        "price": 600
+      },
+      {
+        "name": "kon",
+        "price": 800
+      },
+      {
+        "name": "deng",
+        "price": 7000
+      }
+    ]
   }
 ]
