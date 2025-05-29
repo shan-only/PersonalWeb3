@@ -36,5 +36,26 @@
         "price": 76200000000
       }
     ]
+  },
+  {
+    "id": "proddqllemwz8",
+    "name": "Script Premium",
+    "image": "https://h.uguu.se/pwKyxwgB.webp",
+    "price": 6000000,
+    "description": "\nDeskripsi berasal dari kata \"describe\" dalam bahasa Inggris, yang berarti memaparkan atau melukiskan. Dalam konteks tulisan, deskripsi adalah jenis wacana yang menggambarkan sesuatu berdasarkan kesan-kesan dari pengamatan, pengalaman, dan perasaan penulis.",
+    "packages": [
+      {
+        "name": "hanjeng",
+        "price": 900
+      },
+      {
+        "name": "pler",
+        "price": 769000
+      },
+      {
+        "name": "kontol",
+        "price": 349000
+      }
+    ]
   }
 ]
