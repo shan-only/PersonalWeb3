@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "aeroke",
+    "image": "https://f.uguu.se/CSBEkMsC.webp",
+    "price": 123,
+    "description": "Solusi manajemen server game dengan performa tinggi dan antarmuka yang intuitif.",
+    "packages": []
+  }
+]
