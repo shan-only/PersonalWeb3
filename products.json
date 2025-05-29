@@ -21,5 +21,21 @@
         "price": 5000
       }
     ]
+  },
+  {
+    "name": "Script Bot Pre",
+    "image": "https://f.uguu.se/CSBEkMsC.webp",
+    "price": 130000,
+    "description": "Tambah Produk BaruTambah Produk BaruTambah Produk BaruTambah Produk BaruTambah Produk BaruTambah Produk Baru",
+    "packages": [
+      {
+        "name": "ster",
+        "price": 7000
+      },
+      {
+        "name": "tee",
+        "price": 9000
+      }
+    ]
   }
 ]
