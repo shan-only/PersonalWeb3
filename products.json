@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "Script Bot Prem",
+    "image": "https://f.uguu.se/CSBEkMsC.webp",
+    "price": 40000,
+    "description": "kontofdv",
+    "packages": [
+      {
+        "name": "bine",
+        "price": 3000
+      },
+      {
+        "name": "mura",
+        "price": 67000
+      },
+      {
+        "name": "wed",
+        "price": 9000000
+      }
+    ]
+  }
+]
