@@ -1,21 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "Nama Produk",
-    "price": 100000,
-    "description": "Deskripsi produk",
-    "image": "https://link-gambar.com",
-    "packages": [
-      {
-        "id": "1",
-        "name": "Paket Bas",
-        "price": 1000,
-        "description": "Deskripsi paket"
-      }
-    ],
-    "badge": "TERLARIS"
-  },
-  {
     "id": "prodkgkyzhk1d",
     "name": "Script Bot Premium",
     "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
