@@ -19,5 +19,26 @@
         "price": 7000
       }
     ]
+  },
+  {
+    "id": "prod1bqcslg8z",
+    "name": "Script Bot Premium",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 900000,
+    "description": "walawehwalawehwalawehwalawehwalawehwalawehwalawehwalaweh",
+    "packages": [
+      {
+        "name": "hh",
+        "price": 900000
+      },
+      {
+        "name": "ttyyy",
+        "price": 7000
+      },
+      {
+        "name": "kinn",
+        "price": 4000
+      }
+    ]
   }
 ]
