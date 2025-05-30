@@ -23,5 +23,34 @@
         "price": 80000
       }
     ]
+  },
+  {
+    "id": "prod_1748618457277_i94trer41",
+    "name": "SSH + CONFIG PREMIUM",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/00210b44.jpeg",
+    "price": 5000,
+    "description": "\n> Ingin Config Premium Murah Dan Terpercaya, Lengkap Ada Disini !!\n> Bisa Nego Juga Tipis Tipis, Asal Logis🫱🏼‍🫲🏼",
+    "packages": [
+      {
+        "name": "❒ SSH + CONFIG 15Day 1Ip",
+        "price": 5000
+      },
+      {
+        "name": "❒ SSH + CONFIG 30Day 1Ip",
+        "price": 8000
+      },
+      {
+        "name": "❒ SSH + CONFIG 30Day 2Ip",
+        "price": 10000
+      },
+      {
+        "name": "❒ SSH + CONFIG 60Day 2Ip",
+        "price": 20000
+      },
+      {
+        "name": "❒ SSH + CONFIG 90Day 2Ip",
+        "price": 29000
+      }
+    ]
   }
 ]
