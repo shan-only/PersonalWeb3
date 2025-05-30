@@ -1,27 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "Website Profesional",
-    "description": "Website responsif dengan desain modern dan fitur lengkap",
-    "price": 2500000,
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-    "badge": "BEST SELLER",
-    "packages": [
-      {
-        "id": "basic",
-        "name": "Paket Basic",
-        "price": 1500000,
-        "description": "Website 5 halaman, desain responsif, tanpa CMS"
-      },
-      {
-        "id": "pro",
-        "name": "Paket Pro",
-        "price": 2500000,
-        "description": "Website 10 halaman, desain premium, dengan CMS"
-      }
-    ]
-  },
-  {
     "id": "2",
     "name": "Aplikasi Mobile",
     "description": "Aplikasi mobile untuk iOS dan Android dengan performa tinggi",
