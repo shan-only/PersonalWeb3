@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Nama Produk",
+    "price": 100000,
+    "description": "Deskripsi produk",
+    "image": "https://link-gambar.com",
+    "packages": [
+      {
+        "id": "1",
+        "name": "Paket Basic",
+        "price": 100000,
+        "description": "Deskripsi paket"
+      }
+    ],
+    "badge": "TERLARIS" // optional
+  }
+]
