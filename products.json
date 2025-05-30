@@ -53,5 +53,22 @@
         "price": 90000
       }
     ]
+  },
+  {
+    "id": "prodftkki1yzv",
+    "name": "fghtghdsdh",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 34000,
+    "description": "fdhfhfh",
+    "packages": [
+      {
+        "name": "hhjnh",
+        "price": 8000
+      },
+      {
+        "name": "hhgj",
+        "price": 9009
+      }
+    ]
   }
 ]
