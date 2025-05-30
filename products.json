@@ -40,5 +40,26 @@
         "price": 4000
       }
     ]
+  },
+  {
+    "id": "prodo3g322f9c",
+    "name": "Script Bot Premium",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 40000,
+    "description": "walawehwalawehwalawehwalawehwalawehwalawehwalaweh",
+    "packages": [
+      {
+        "name": "huaa",
+        "price": 40000
+      },
+      {
+        "name": "ser",
+        "price": 6000
+      },
+      {
+        "name": "itu",
+        "price": 99456
+      }
+    ]
   }
 ]
