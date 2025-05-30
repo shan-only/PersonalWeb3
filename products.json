@@ -6,5 +6,13 @@
     "price": 500,
     "description": "Nama ProdukNama ProdukNama Nama Produk",
     "packages": []
+  },
+  {
+    "id": "prod_1748603447883_mgy4sjqiz",
+    "name": "ererer",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 40000,
+    "description": "fghfgh rhydthd",
+    "packages": []
   }
 ]
