@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "proddw50r4u6q",
+    "name": "Panel Pterodactyl",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 50000,
+    "description": "pler",
+    "packages": [
+      {
+        "name": "ban",
+        "price": 400
+      },
+      {
+        "name": "hash",
+        "price": 50000
+      },
+      {
+        "name": "ngen",
+        "price": 3000
+      }
+    ]
+  }
+]
