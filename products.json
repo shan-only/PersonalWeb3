@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "prodceji6bv0y",
+    "name": "Script Bot Premium",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 10000,
+    "description": "tailko",
+    "packages": [
+      {
+        "name": "hanj",
+        "price": 900
+      },
+      {
+        "name": "gg",
+        "price": 200
+      },
+      {
+        "name": "geo",
+        "price": 100
+      }
+    ]
+  }
+]
