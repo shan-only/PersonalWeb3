@@ -1,22 +1,17 @@
 [
   {
-    "id": "prod6m08cx1ei",
-    "name": "hanjeng",
-    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
-    "price": 30000,
-    "description": "script",
+    "id": "1",
+    "name": "Website Profesional",
+    "description": "Website responsif dengan desain modern dan fitur lengkap",
+    "price": 2500000,
+    "image": "https://example.com/image1.jpg",
+    "badge": "BEST SELLER",
     "packages": [
       {
-        "name": "store",
-        "price": 30000
-      },
-      {
-        "name": "md",
-        "price": 45000
-      },
-      {
-        "name": "bisnis",
-        "price": 100000
+        "id": "basic",
+        "name": "Paket Basic",
+        "price": 1500000,
+        "description": "Deskripsi paket basic"
       }
     ]
   },
