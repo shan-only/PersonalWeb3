@@ -1,21 +1,5 @@
 [
   {
-    "id": "1",
-    "name": "Website Profesional",
-    "description": "Website responsif dengan desain modern dan fitur lengkap",
-    "price": 2500000,
-    "image": "https://example.com/image1.jpg",
-    "badge": "BEST SELLER",
-    "packages": [
-      {
-        "id": "basic",
-        "name": "Paket Basic",
-        "price": 1500000,
-        "description": "Deskripsi paket basic"
-      }
-    ]
-  },
-  {
     "id": "prodi1jnrdvnh",
     "name": "Script Bot Prem",
     "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
