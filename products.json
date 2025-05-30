@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "prod_1748608014790_z68qbsdkr",
+    "name": "VPS TUNNELING DO LLC",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/67767a6a.jpg",
+    "price": 35000,
+    "description": "💰 \"VPS Murah, Bukan Murahan!\"\n💎 \"Harga Terjangkau, Kualitas Premium!\"\n📉 \"Hemat Budget, Dapat Performa Maksimal!\"",
+    "packages": [
+      {
+        "name": "❒ RAM 1GB CPU1 BW1",
+        "price": 35000
+      },
+      {
+        "name": "❒ RAM 2GB CPU1 BW2",
+        "price": 40000
+      },
+      {
+        "name": "❒ RAM 4GB CPU2 BW4",
+        "price": 65000
+      },
+      {
+        "name": "❒ RAM 8GB CPU4 BW5",
+        "price": 80000
+      }
+    ]
+  }
+]
