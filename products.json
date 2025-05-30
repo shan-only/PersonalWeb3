@@ -19,5 +19,26 @@
         "price": 100
       }
     ]
+  },
+  {
+    "id": "prod6m08cx1ei",
+    "name": "hanjeng",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 30000,
+    "description": "script",
+    "packages": [
+      {
+        "name": "store",
+        "price": 30000
+      },
+      {
+        "name": "md",
+        "price": 45000
+      },
+      {
+        "name": "bisnis",
+        "price": 100000
+      }
+    ]
   }
 ]
