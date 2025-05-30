@@ -1,26 +1,5 @@
 [
   {
-    "id": "prod2kyquhxp8",
-    "name": "Script Bot Premium",
-    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
-    "price": 100000,
-    "description": "walawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalawehwalaweh",
-    "packages": [
-      {
-        "name": "basic",
-        "price": 100000
-      },
-      {
-        "name": "premium",
-        "price": 900000
-      },
-      {
-        "name": "advance",
-        "price": 7000
-      }
-    ]
-  },
-  {
     "id": "prod1bqcslg8z",
     "name": "Script Bot Premium",
     "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
