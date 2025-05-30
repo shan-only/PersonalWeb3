@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "prodlb4dpfhke",
+    "name": "Panel Pterodactyl",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 20000,
+    "description": "panel berkualitas",
+    "packages": [
+      {
+        "name": "panel",
+        "price": 5000
+      },
+      {
+        "name": "panel public",
+        "price": 15000
+      },
+      {
+        "name": "admin panel",
+        "price": 20000
+      }
+    ]
+  }
+]
