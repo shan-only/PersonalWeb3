@@ -8,15 +8,32 @@
     "packages": [
       {
         "id": "1",
-        "name": "Paket Basic",
-        "price": 100000,
-        "name": "Paketic",
-        "price": 10000,
         "name": "Paket Bas",
         "price": 1000,
         "description": "Deskripsi paket"
       }
     ],
     "badge": "TERLARIS"
+  },
+  {
+    "id": "prodkgkyzhk1d",
+    "name": "Script Bot Premium",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/76617720.jpeg",
+    "price": 123000,
+    "description": "haiiiiiii",
+    "packages": [
+      {
+        "name": "attack",
+        "price": 123000
+      },
+      {
+        "name": "basic",
+        "price": 30000
+      },
+      {
+        "name": "jk",
+        "price": 5000
+      }
+    ]
   }
 ]
