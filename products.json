@@ -250,5 +250,18 @@
         "price": 15000
       }
     ]
+  },
+  {
+    "id": "prod_1748735379298_ettqhmp2j",
+    "name": "JADI BOT WA",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ab7e7db6.jpg",
+    "price": 35000,
+    "description": "MASA AKTIF SATU BULAN,\nCOCOK UNTUK OPEN SEWABOT,\nBEBERAPA FITUR DI BATASIN,\nSIAP PAKAI LANGSUNG JALAN,\nBOT AKTIF 24 JAM,\nANTI DELAY,\nKETENTUAN DAN LAINYA CHAT OWNER.",
+    "packages": [
+      {
+        "name": "JADI BOT WA MD",
+        "price": 35000
+      }
+    ]
   }
 ]
