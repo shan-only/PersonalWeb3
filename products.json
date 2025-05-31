@@ -102,5 +102,58 @@
         "price": 48000
       }
     ]
+  },
+  {
+    "id": "prod_1748662736364_1odd9xffn",
+    "name": "VPS HOSTING DO LLC",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ac1f3e39.jpeg",
+    "price": 20000,
+    "description": "FREE REQ OS, FREE INSTALL PANEL PTERODACTYL, FREE DOMAIN ( BEBAS REQ NAMA ) FREE REQ VPS KOSONGAN, BISA BUAT HOSTING WEB, BEBAS REBUILD VPS.\n* FULL GARANSI 30 DAY & 1X REPLCE\n* DAN SUDAH AMAN TERPERCAYA 100%\n",
+    "packages": [
+      {
+        "name": "❒ RAM 1GB CPU 1",
+        "price": 20
+      },
+      {
+        "name": "❒ RAM 2GB CPU 1",
+        "price": 25
+      },
+      {
+        "name": "❒ RAM 2GB CPU 2",
+        "price": 30
+      },
+      {
+        "name": "❒ RAM 4GB CPU 1",
+        "price": 40
+      },
+      {
+        "name": "❒ RAM 4GB CPU 2",
+        "price": 50
+      },
+      {
+        "name": "❒ RAM 8GB CPU 2",
+        "price": 65
+      },
+      {
+        "name": "❒ RAM 8GB CPU 4",
+        "price": 75
+      },
+      {
+        "name": "❒ RAM 16GB CPU 4",
+        "price": 85
+      },
+      {
+        "name": "❒ RAM 16GB CPU 8",
+        "price": 110
+      },
+      {
+        "name": "❒ RAM 32GB CPU 4",
+        "price": 125
+      },
+      {
+        "name": "❒ RAM 32GB CPU 8",
+        "price": 125
+      }
+    ]
   }
 ]
