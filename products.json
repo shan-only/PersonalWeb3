@@ -112,47 +112,43 @@
     "packages": [
       {
         "name": "❒ RAM 1GB CPU 1",
-        "price": 20
+        "price": 20000
       },
       {
         "name": "❒ RAM 2GB CPU 1",
-        "price": 25
+        "price": 25000
       },
       {
         "name": "❒ RAM 2GB CPU 2",
-        "price": 30
+        "price": 30000
       },
       {
         "name": "❒ RAM 4GB CPU 1",
-        "price": 40
+        "price": 40000
       },
       {
         "name": "❒ RAM 4GB CPU 2",
-        "price": 50
+        "price": 50000
       },
       {
         "name": "❒ RAM 8GB CPU 2",
-        "price": 65
+        "price": 65000
       },
       {
         "name": "❒ RAM 8GB CPU 4",
-        "price": 75
+        "price": 75000
       },
       {
         "name": "❒ RAM 16GB CPU 4",
-        "price": 85
+        "price": 85000
       },
       {
         "name": "❒ RAM 16GB CPU 8",
-        "price": 110
-      },
-      {
-        "name": "❒ RAM 32GB CPU 4",
-        "price": 125
+        "price": 110000
       },
       {
         "name": "❒ RAM 32GB CPU 8",
-        "price": 125
+        "price": 150000
       }
     ]
   }
