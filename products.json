@@ -81,5 +81,26 @@
         "price": 29000
       }
     ]
+  },
+  {
+    "id": "prod_1748661358203_ivn0sjtaa",
+    "name": "CONFIG STB OPENWRT",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/5fc19cc3.jpeg",
+    "price": 14000,
+    "description": "NO MULTI PROXY, 1STB MAX 5/10 USER/ PERANGKAT YANG TERHUBUNG, SESUAI AKUN YANG DIBELI",
+    "packages": [
+      {
+        "name": "❒ Config Openwrt 5 User 30Day",
+        "price": 14000
+      },
+      {
+        "name": "❒ Config Openwrt 10 User 30Day",
+        "price": 26000
+      },
+      {
+        "name": "❒ Config Openwrt 10 User 30Day",
+        "price": 48000
+      }
+    ]
   }
 ]
