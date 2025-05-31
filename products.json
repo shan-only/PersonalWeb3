@@ -263,5 +263,42 @@
         "price": 35000
       }
     ]
+  },
+  {
+    "id": "prod_1748735648308_pd8ugdkib",
+    "name": "DOMAIN MURMER BERKUALITAS",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/689488a3.jpg",
+    "price": 35000,
+    "description": "GARANSI ON 3 BULAN SUDAH TERHUBUNG KE CF LANGSUNG SIAP PAKAI KETENTUAN LAINNYA LANGSUNG HUBUNGI ADMIN",
+    "packages": [
+      {
+        "name": "NAMAKAMU.XYZ",
+        "price": 35000
+      },
+      {
+        "name": "NAMAKAMU.STORE",
+        "price": 40000
+      },
+      {
+        "name": "NAMAKAMU.MY.ID",
+        "price": 35000
+      },
+      {
+        "name": "NAMAKAMU.BIZ.ID",
+        "price": 38000
+      },
+      {
+        "name": "NAMAKAMU.CYOU",
+        "price": 35000
+      },
+      {
+        "name": "NAMAKAMU.CLOUD",
+        "price": 40000
+      },
+      {
+        "name": "NAMAKAMU.WEB.ID",
+        "price": 35000
+      }
+    ]
   }
 ]
