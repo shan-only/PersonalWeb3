@@ -197,5 +197,58 @@
         "price": 25000
       }
     ]
+  },
+  {
+    "id": "prod_1748674107444_5rwc81ta1",
+    "name": "PANEL PTERODACTYL",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
+    "price": 3000,
+    "description": "PANEL KAMI TERJAMI FAST DAN CEPAT DAN SUDAH ANTI DDOS MENGGUNAKAN VPS R16 & R32 DAN SUPP NODE DARI 14/24 SERVER PRIVATE SCRIPT DI JAMIN ANTI KECOLONGAN UNTUK KETENTUAN LEBIH LANJUT SUNG CHAT ADMIN",
+    "packages": [
+      {
+        "name": "❒ RAM 1 CPU 10%",
+        "price": 3000
+      },
+      {
+        "name": "❒ RAM 2 CPU 20%",
+        "price": 4000
+      },
+      {
+        "name": "❒ RAM 3 CPU 30%",
+        "price": 5000
+      },
+      {
+        "name": "❒ RAM 4 CPU 40%",
+        "price": 6000
+      },
+      {
+        "name": "❒ RAM 5 CPU 50%",
+        "price": 7000
+      },
+      {
+        "name": "❒ RAM 6 CPU 60%",
+        "price": 8000
+      },
+      {
+        "name": "❒ RAM 7 CPU 70%",
+        "price": 9000
+      },
+      {
+        "name": "❒ RAM 8 CPU 80%",
+        "price": 10000
+      },
+      {
+        "name": "❒ RAM 9 CPU 90%",
+        "price": 11000
+      },
+      {
+        "name": "❒ RAM 10 CPU 100%",
+        "price": 12000
+      },
+      {
+        "name": "❒ RAM UNLI CPU UNLI%",
+        "price": 15000
+      }
+    ]
   }
 ]
