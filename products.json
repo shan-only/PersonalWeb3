@@ -350,5 +350,34 @@
         "price": 190000
       }
     ]
+  },
+  {
+    "id": "prod_1748737710368_inu2gygfn",
+    "name": "SEWA BOT MD ",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ab7e7db6.jpg",
+    "price": 5000,
+    "description": "SEWABOT HANYA UNTUK SATU GRUP SAJA, MENDAPATKAN AKSES PREMIUM GRATIS JIKA ORDER 1 BULAN, FITUR 900+ COCOK BUAT JUALAN ATAUPUN UNTUK GRUP SENANG\" BARENG TEMEN",
+    "packages": [
+      {
+        "name": "❒ SEWA BOT 10DAY",
+        "price": 5000
+      },
+      {
+        "name": "❒ SEWA BOT 20DAY",
+        "price": 10000
+      },
+      {
+        "name": "❒ SEWA BOT 1BULAN",
+        "price": 15000
+      },
+      {
+        "name": "❒ SEWA BOT 2BULAN",
+        "price": 30000
+      },
+      {
+        "name": "❒ SEWA BOT PERMANEN",
+        "price": 80000
+      }
+    ]
   }
 ]
