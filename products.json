@@ -379,5 +379,18 @@
         "price": 80000
       }
     ]
+  },
+  {
+    "id": "prod_1748737983920_dai21clp7",
+    "name": "RESELLER PANEL PTERODACTYL",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/0cd53ccc.jpg",
+    "price": 20000,
+    "description": "HARGA JOIN PERTAMA KALI BAYAR 20K UNTUK PERBULAN WAJIB BAYAR 7K UNTUK PERPANJANGAN MASA RESELLER.",
+    "packages": [
+      {
+        "name": "JOIN RESELLER PANEL",
+        "price": 20000
+      }
+    ]
   }
 ]
