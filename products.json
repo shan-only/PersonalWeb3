@@ -325,5 +325,30 @@
         "price": 55000
       }
     ]
+  },
+  {
+    "id": "prod_1748737326877_ipbiizk68",
+    "name": "PANEL DIGITAL OCEAN",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/5d949438.jpg",
+    "price": 135000,
+    "description": "AKUN KOSONGAN, LANGSUNG BISA CLAIM SALDO FRESH.\nON GARANSI BY TOS.\nYUK COCOK BUAT YANG CARI PANEL AWET DAN BERKUALITAS.\n",
+    "packages": [
+      {
+        "name": "❒ DIGITAL OCEAN 3 DROP PP 2B",
+        "price": 135000
+      },
+      {
+        "name": "❒ DIGITAL OCEAN 10 DROP PP 2B",
+        "price": 170000
+      },
+      {
+        "name": "❒ DIGITAL OCEAN 10 DROP PP 1TH",
+        "price": 200000
+      },
+      {
+        "name": "❒ DIGITAL OCEAN 10 DROP VCC 1TH",
+        "price": 190000
+      }
+    ]
   }
 ]
