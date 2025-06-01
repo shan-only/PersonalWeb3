@@ -300,5 +300,30 @@
         "price": 35000
       }
     ]
+  },
+  {
+    "id": "prod_1748736599835_r3kop7jbc",
+    "name": "ALIGHT MOTION PREMIUM",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/a2f91ec6.jpg",
+    "price": 5000,
+    "description": "PADA AKUN PUBLIC NO GARANSI,\nAKUN PRIVATE FULL GARANSI,\nAKUN PRIVATE 1 TAHUN ON GARANSI 5 BULAN",
+    "packages": [
+      {
+        "name": "AKUN PUBLIC 1 BULAN",
+        "price": 5000
+      },
+      {
+        "name": "AKUN PRIVATE 1 BULAN",
+        "price": 10000
+      },
+      {
+        "name": "AKUN PRIVATE 2 BULAN",
+        "price": 18000
+      },
+      {
+        "name": "AKUN PRIVATE 1 TAHUN",
+        "price": 55000
+      }
+    ]
   }
 ]
