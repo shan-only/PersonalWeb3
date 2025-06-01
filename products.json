@@ -392,5 +392,13 @@
         "price": 20000
       }
     ]
+  },
+  {
+    "id": "prod_1748738388601_alld3ky6s",
+    "name": "RESELLER CONFIG PREMIUM",
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/4953b0d1.jpg",
+    "price": 35000,
+    "description": "HH",
+    "packages": []
   }
 ]
