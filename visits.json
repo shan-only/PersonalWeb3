@@ -1,19 +1,7 @@
 {
-  "total": 12,
-  "daily": {
-    "2025-06-14": 12
-  },
-  "hourly": {
-    "2025-06-14": {
-      "7": 8,
-      "14": 4
-    }
-  },
-  "monthly": {
-    "2025-6": 8,
-    "2025-06": 4
-  },
-  "sources": {
-    "https://olshop.snayderstore.x-vvip.cloud/visitors.html": 12
-  }
+  "total": 0,
+  "daily": {},
+  "hourly": {},
+  "monthly": {},
+  "sources": {}
 }
