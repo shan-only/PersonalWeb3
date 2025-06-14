@@ -1,12 +1,13 @@
 {
-  "total": 42,
+  "total": 43,
   "daily": {
     "2025-06-13": 10,
-    "2025-06-14": 15,
+    "2025-06-14": 16,
     "2025-06-15": 17
   },
   "hourly": {
     "2025-06-14": {
+      "3": 1,
       "10": 5,
       "14": 8,
       "20": 2
@@ -19,11 +20,13 @@
   },
   "monthly": {
     "2025-05": 25,
-    "2025-06": 42
+    "2025-06": 42,
+    "2025-6": 1
   },
   "sources": {
     "https://google.com": 10,
     "https://facebook.com": 8,
-    "direct": 24
+    "direct": 24,
+    "https://olshop.snayderstore.x-vvip.cloud/visitors.html": 1
   }
 }
