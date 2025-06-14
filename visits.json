@@ -1,17 +1,18 @@
 {
-  "total": 2,
+  "total": 3,
   "daily": {
-    "2025-06-14": 2
+    "2025-06-14": 3
   },
   "hourly": {
     "2025-06-14": {
-      "14": 2
+      "14": 2,
+      "15": 1
     }
   },
   "monthly": {
-    "2025-06": 2
+    "2025-06": 3
   },
   "sources": {
-    "https://olshop.snayderstore.x-vvip.cloud/visitors.html": 2
+    "https://olshop.snayderstore.x-vvip.cloud/visitors.html": 3
   }
 }
