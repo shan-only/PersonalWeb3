@@ -1,6 +1,7 @@
 {
   "total": 0,
-  "daily": {9},
+  "daily": {},
   "hourly": {},
-  "monthly": {}
+  "monthly": {},
+  "sources": {}
 }
